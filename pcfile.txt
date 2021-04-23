@@ -1,5 +1,9 @@
 
 hello? 
 
+<<<<<<< HEAD
 Today is not such a good day ?
 
+=======
+Today is not such a good day !
+>>>>>>> afd07ed5c473329a2ac66e29e50999a736e38c73
